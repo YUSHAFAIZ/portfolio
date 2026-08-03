@@ -23,6 +23,14 @@ const siteConfig = {
   linkedin: "https://www.linkedin.com/in/yusha-faiz-ansari-5a43b92bb/",
 
   resume: "/resume.pdf",
+
+  degree: "B.Tech Computer Science & Engineering",
+  college: "GRD Institute of Management & Technology",
+  graduationYear: "2027",
+  cgpa: "6.93",
+  experience: "Frontend Developer Intern",
+  projectsCount: "5+",
+  technologiesCount: "10+",
 };
 
 export default siteConfig;
