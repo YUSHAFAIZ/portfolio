@@ -4,7 +4,7 @@ import Button from "./ui/Button";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import SocialIcon from "./ui/SocialIcon";
-import faizImage from "../assets/Faiz.png";
+import faizImage from "../assets/projects/Faiz.png";
 const Hero = () => {
   const [copied, setCopied] = useState(false);
 
