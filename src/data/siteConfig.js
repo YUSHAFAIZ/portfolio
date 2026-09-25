@@ -7,10 +7,10 @@ const siteConfig = {
 
   role: "Frontend Developer",
 
-  subtitle: "React Developer",
+  subtitle: "React & Full-Stack Developer",
 
   tagline:
-    "Building production-ready React applications with experience developing School ERP systems, dashboards, attendance modules, and responsive websites used by real clients.",
+    "Building production-ready web applications with React, TypeScript, and modern full-stack technologies. Experienced in School ERP systems, dashboards, authentication, APIs, and business-driven applications.",
 
   email: "yushafaiza@gmail.com",
 
@@ -28,9 +28,11 @@ const siteConfig = {
   college: "GRD Institute of Management & Technology",
   graduationYear: "2027",
   cgpa: "6.93",
-  experience: "Frontend Developer Intern",
+
+  experience: "Frontend Developer",
+
   projectsCount: "5+",
-  technologiesCount: "10+",
+  technologiesCount: "15+",
 };
 
 export default siteConfig;
